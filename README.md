@@ -9,11 +9,9 @@ Yeisson Alejandro Gutiérrez Cano
 # Repositorio
 El contenido y anexos como insumo y producto del desarrollo  de la actividad, reposan en el siguiente enlace de [GitHub.](https://github.com/AlejandroGutie/SeminarioME03G04/tree/main_1)
 
-# Datos
+# Procesamiento de los datos
+Se llevó a cabo en la herramienta de Google Collaboratory, en el siguiente enlace al Notebook denominado ["Desnutrición e inseguridad alimentaria".](https://colab.research.google.com/drive/1A6qivHL5IKq1Bk3AzSdgBatG0S3N1K_f?usp=sharing)
 
-
-
-## Importación y fuente de datos
-
-# Código
-El procesamiento de los datos se llevó a cabo en la herramienta de Google Collaboratory, en el siguiente enlace al Notebok denominado ["Desnutrición e inseguridad alimentaria".](https://colab.research.google.com/drive/1A6qivHL5IKq1Bk3AzSdgBatG0S3N1K_f?usp=sharing)
+# Referencias
+***Datos***\
+Secretaría Seccional de Salud de Antioquia, “Servicio de Información y Estadística”, 2023.  [Online]. Available: https://dssa.gov.co/inicio-estadisticas

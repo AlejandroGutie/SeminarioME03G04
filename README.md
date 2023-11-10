@@ -17,7 +17,7 @@ Se consolida en el notebook el apartado de Herramientas representadas en las Lib
 
 Se realiza una lectura de las variables contenidas en los dataset, se valida su completitud gráficamente y se lleva a cabo una identificación y selección de variables numéricas y categóricas de interés como primer insumo de variables predictoras del fenómeno de la desnutrición y la inseguridad alimentaria.
 
-Posteriormente se presenta el momento de definición del conjunto de datos, llevando a cabo la unión por columnas de ambos dataset en un único dataset con 5500 instancias con la medición de 6 variables numéricas y categóricas con la identificación del municipio y valor de cada indicador como primer insumo de datos.
+Posteriormente se presenta el momento de definición del conjunto de datos, incorporando nuevas instancias con la unión de ambos dataset en uno único de 5500 registros, con la medición de 6 variables numéricas y categóricas con la identificación del municipio y valor de cada indicador como primer insumo de datos.
 
 ## Definición del conjunto de datos
 Se lleva cabo la selección de las variables definitivas para el conjunto de datos y la unión por columnas de ambos dataset en uno definitivo como primer insumo de datos para el logro definitivo de los objetivos planteados.
